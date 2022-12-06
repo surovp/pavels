@@ -11,8 +11,9 @@
 - I'm manual and automation Engineer from Chelyabinsk.
 - I work QA about 2 years.
 - I write autotests in Python
-- Contacts:
 - Email: surovp08@gmail.com
+- Contacts:
+
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/pasurov"><img width="32px" alt="Telegram" title="Telegram" src="images/tg.png"/></a>
