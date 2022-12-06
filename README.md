@@ -1,2 +1,4 @@
 # Hi there:wave:
-## I'm manual and automation QA
+## About me
+-I'm manual and automation QA
+-
