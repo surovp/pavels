@@ -1,6 +1,6 @@
 <div align="center">
    <h1>
-      Hi there:wave:
+      Hi there!:wave:
    </h1>
 </div>
 
@@ -63,5 +63,21 @@
   
   
 <!--Projects-->
-  
+## :floppy_disk:Projects
+### UI autotests
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/qa_guru_python_2_pageobjects)
 
+&#8287;&#8287;&#8287;&#8287;&#8287;
+### API autotests
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/API_reqres)
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
+### Mobile autotests
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/Mobile_Wiki)
+
+<!--Git Stats-->
+&#8287;&#8287;&#8287;&#8287;&#8287;
+## :bar_chart:Git stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surovp&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surovp&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surovp&theme=tokyonight)
