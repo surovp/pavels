@@ -12,6 +12,7 @@
 - I work QA about 2 years.
 - I write autotests in Python
 - Contacts:
+- Email: surovp08@gmail.com
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/pasurov"><img width="32px" alt="Telegram" title="Telegram" src="images/tg.png"/></a>
@@ -20,6 +21,7 @@
   &#8287;
   <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=DmwnWrRlRjJHDstQKfqbBPWsvShdDGglmJpTgrQTFhgFrjKxlzLzcBxlDMljTmFtKvHVPrvVsfKQ"><img width="37px" alt="Write me Email" title="Gmail" src="images/gmail.png"/></a>
 </p>
+
 
 <!--Education-->
 ## Education
