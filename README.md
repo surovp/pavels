@@ -26,7 +26,7 @@
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="images/susu.png"></td><td valign="middle">South Ural State University. Institute of Large and Exact Sciences.</br>Faculty of Mathematics, Mechanics and Computer Technologies.</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="images/qa-guru.svg"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="images/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
   </br>
