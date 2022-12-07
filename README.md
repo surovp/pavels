@@ -42,7 +42,8 @@
   
   
   
-<!--Stack and tools-->  
+<!--Stack and tools-->
+&#8287;&#8287;&#8287;&#8287;&#8287;
 ## :computer:Stack and tools
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/logo_stacks/pycharm.png"></code>
