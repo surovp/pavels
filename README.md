@@ -34,7 +34,7 @@
   
   #### Additional Education:
 <table width="100%" border='0'>
-   <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/shultais.png"></td><td valign="middle">Programming schcool Python <a target="_blank" href="https://shultais.education/lms/courses">shultais school</a>.</td></tr>
+   <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/shultais.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://shultais.education/lms/courses">shultais school</a>.</td></tr>
    
    <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
