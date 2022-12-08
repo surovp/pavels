@@ -25,6 +25,7 @@
 
 
 <!--Education-->
+
 ## :man_student:Education
 <table width="100%" border='0'>
    <tr> 
@@ -43,6 +44,7 @@
   
   
 <!--Stack and tools-->
+
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :computer:Stack and tools
 <p  align="center">
@@ -73,6 +75,7 @@
   
   
 <!--Projects-->
+
 ## :floppy_disk:Projects
 ### UI autotests
 ##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/qa_guru_python_2_pageobjects)
@@ -85,7 +88,9 @@
 ### Mobile autotests
 ##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/Mobile_Wiki)
 
+
 <!--Git Stats-->
+
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :bar_chart:Git stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surovp&theme=tokyonight)
