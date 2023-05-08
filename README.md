@@ -78,17 +78,17 @@
 
 ## :floppy_disk:Projects
 ### UI autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/qa_guru_python_2_pageobjects)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [DemoQa](https://github.com/surovp/qa_guru_python_2_pageobjects)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### API autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/API_reqres)
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/dm_api_tests_pavels)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [Reqres](https://github.com/surovp/API_reqres)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [ApiDm](https://github.com/surovp/dm_api_tests_pavels)
 
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### Mobile autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/Mobile_Wiki)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [Wikipedia](https://github.com/surovp/Mobile_Wiki)
 
 
 <!--Git Stats-->
