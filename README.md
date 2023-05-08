@@ -83,6 +83,8 @@
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### API autotests
 ##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/API_reqres)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/dm_api_tests_pavels)
+
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### Mobile autotests
