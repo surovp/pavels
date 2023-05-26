@@ -25,6 +25,7 @@
 
 
 <!--Education-->
+
 ## :man_student:Education
 <table width="100%" border='0'>
    <tr> 
@@ -34,7 +35,7 @@
   
   #### Additional Education:
 <table width="100%" border='0'>
-   <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/shultais.png"></td><td valign="middle">Programming schcool Python <a target="_blank" href="https://shultais.education/lms/courses">shultais school</a>.</td></tr>
+   <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/shultais.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://shultais.education/lms/courses">shultais school</a>.</td></tr>
    
    <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
@@ -42,7 +43,9 @@
   
   
   
-<!--Stack and tools-->  
+<!--Stack and tools-->
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
 ## :computer:Stack and tools
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/logo_stacks/pycharm.png"></code>
@@ -72,19 +75,24 @@
   
   
 <!--Projects-->
+
 ## :floppy_disk:Projects
 ### UI autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/qa_guru_python_2_pageobjects)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [DemoQa](https://github.com/surovp/qa_guru_python_2_pageobjects)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### API autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/API_reqres)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [Reqres](https://github.com/surovp/API_reqres)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [ApiDm](https://github.com/surovp/dm_api_tests_pavels)
+
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### Mobile autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/surovp/Mobile_Wiki)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [Wikipedia](https://github.com/surovp/Mobile_Wiki)
+
 
 <!--Git Stats-->
+
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :bar_chart:Git stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surovp&theme=tokyonight)
