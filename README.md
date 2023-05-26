@@ -20,7 +20,7 @@
   &#8287;
   <a href="https://vk.com/id52197171"><img width="32px" alt="VK" title="Vk" src="images/social_networks/vk.png"/></a>
   &#8287;
-   <a href="https://www.linkedin.com/in/pavel-surov-3156b7278/"><img width="32px" alt="VK" title="LinkedIn"       src=mages/social_networks/linkedin.png/></a>
+   <a href="https://www.linkedin.com/in/pavel-surov-3156b7278/"><img width="32px" alt="LinkedIn" title="LinkedIn"       src=images/social_networks/linkedin.png/></a>
   &#8287;
   <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=DmwnWrRlRjJHDstQKfqbBPWsvShdDGglmJpTgrQTFhgFrjKxlzLzcBxlDMljTmFtKvHVPrvVsfKQ"><img width="37px" alt="Write me Email" title="Gmail" src="images/social_networks/gmail.png"/></a>
 </p>
