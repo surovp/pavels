@@ -42,7 +42,7 @@
    <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
    
-   <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/wizard.png"></td><td valign="middle">REST and gRPC api test automation (Python) <a target="_blank" href="https://it-wizard.pro/main">it-wizard</a>.</td></tr>
+   <tr><td width="30%" valign="bottom"><img src="images/logo_stacks/Screenshot_2.png"></td><td valign="middle">REST and gRPC api test automation (Python) <a target="_blank" href="https://it-wizard.pro/main">it-wizard</a>.</td></tr>
    </tr>
   </table>
   
