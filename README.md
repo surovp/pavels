@@ -9,7 +9,7 @@
 
 ## :technologist:About me
 - I'm manual and automation Engineer from Chelyabinsk.
-- I work QA about 2 years.
+- I work QA 4 years.
 - I write autotests in Python
 - Email: surovp08@gmail.com
 - Contacts:
